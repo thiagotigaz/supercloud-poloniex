@@ -1,0 +1,3 @@
+BTC_XRP:
+  up: 1.02 # close if current price is 2% above margin position base price
+  down: 0.99 # close if current price is 1% below margin position base price
